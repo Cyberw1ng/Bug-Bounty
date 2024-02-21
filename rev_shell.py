@@ -1,13 +1,8 @@
 # Exploit Title: Pluck CMS 4.7.16 - Remote Code Execution (RCE) (Authenticated)
-# Date: 13.03.2022
-# Exploit Author: Ashish Koli (Shikari)
-# Vendor Homepage: https://github.com/pluck-cms/pluck
-# Version: 4.7.16
 # Tested on Ubuntu 20.04.3 LTS
 # CVE: CVE-2022-26965
 # Usage : python3 exploit.py <IP> <Port> <Password> <Pluckcmspath>
 # Example:  python3 exploit.py 127.0.0.1 80 admin /pluck
-# Reference: https://github.com/shikari00007/Pluck-CMS-Pluck-4.7.16-Theme-Upload-Remote-Code-Execution-Authenticated--POC
 
 '''
 Description:
