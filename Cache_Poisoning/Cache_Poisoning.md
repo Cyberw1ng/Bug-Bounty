@@ -8,3 +8,6 @@ Involve 2 Phases:
 
 Impacts:
 This leads to different attacks such as XSS, Javascript Injection, Open Redirection and so on.
+
+Automatic Tools
+toxicache: Golang scanner to find web cache poisoning vulnerabilities in a list of URLs and test multiple injection techniques.
