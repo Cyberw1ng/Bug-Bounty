@@ -5,4 +5,6 @@
 
 ## Timeline
 
-19.07.2024
+21.07.2024
+
+https://portswigger.net/web-security/cross-site-scripting
