@@ -15,27 +15,27 @@ This repository is a collection of bug bounty materials, reports, tools, automat
 
 ## Getting Started
 
-Explore tutorials, guides, and recommended reading materials in the `getting_started` directory.
+Explore tutorials, guides, and recommended reading materials in the `getting_started` Section.
 
 ## Materials
 
-Educational articles, videos, presentations, and cheat sheets in the `materials` directory.
+Educational articles, videos, presentations, and cheat sheets in the `materials` Section.
 
 ## Reports
 
-Real-world bug bounty reports in the `reports` directory.
+Real-world bug bounty reports in the `reports` Section.
 
 ## Tools
 
-Curated tools and utilities in the `tools` directory.
+Curated tools and utilities in the `tools` Section.
 
 ## Automation Scripts
 
-Efficiency-boosting automation scripts in the `automation_scripts` directory.
+Efficiency-boosting automation scripts in the `automation_scripts` Section.
 
 ## Tips and Tricks
 
-Expert advice and insights in the `tips_and_tricks` directory.
+Expert advice and insights in the `tips_and_tricks` Section.
 
 ## Contributing
 
