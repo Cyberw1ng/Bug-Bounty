@@ -5,6 +5,8 @@
 
 ## Timeline
 
-21.07.2024
+25.07.2024
 
 https://portswigger.net/web-security/cross-site-scripting
+
+Cheat sheet - https://portswigger.net/web-security/cross-site-scripting/cheat-sheet
