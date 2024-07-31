@@ -16,3 +16,5 @@ Cheat sheet - https://portswigger.net/web-security/cross-site-scripting/cheat-sh
 XSS Game to Practice XSS - http://www.xssgame.com/
 
 XSS site to Practice XSS - https://xss-quiz.int21h.jp/
+
+XSS site to Practice XSS - https://xss-game.appspot.com/
