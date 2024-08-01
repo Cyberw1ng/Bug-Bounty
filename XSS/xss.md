@@ -5,13 +5,14 @@
 
 ## Timeline
 
-29.07.2024
+01.08.2024
+
+
+## Resources
 
 https://portswigger.net/web-security/cross-site-scripting
 
 Cheat sheet - https://portswigger.net/web-security/cross-site-scripting/cheat-sheet
-
-
 
 XSS Game to Practice XSS - http://www.xssgame.com/
 
