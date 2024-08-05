@@ -22,7 +22,9 @@ XSS site to Practice XSS - https://xss-game.appspot.com/
 
 ## Useful Tools 
 
-
+DOMinator
+XSStrike
+DalFox
 
 
 # Payloads
