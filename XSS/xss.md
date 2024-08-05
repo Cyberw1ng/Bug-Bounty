@@ -5,7 +5,7 @@
 
 ## Timeline
 
-04.08.2024
+06.08.2024
 
 
 ## Resources
