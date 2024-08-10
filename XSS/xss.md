@@ -203,4 +203,3 @@ innerHTML=location.hash>#<script>alert(1)</script>
 <a onmouseout="alert(1)">test</a>
 <a onmouseover="alert(1)">test</a>
 <a onmouseup="alert(1)">test</a>
-<a onpaste="alert(1)" contenteditable>test</a>
