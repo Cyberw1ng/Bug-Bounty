@@ -5,12 +5,13 @@
 
 ## Timeline
 
-10.08.2024
+12.08.2024
 
 
 ## Resources
 
 https://portswigger.net/web-security/cross-site-scripting
+https://tryhackme.com/r/room/axss
 
 Cheat sheet - https://portswigger.net/web-security/cross-site-scripting/cheat-sheet
 
