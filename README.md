@@ -37,9 +37,6 @@ Efficiency-boosting automation scripts in the `automation_scripts` Section.
 
 Expert advice and insights in the `tips_and_tricks` Section.
 
-## Contributing
-
-See `CONTRIBUTING.md` for guidelines on contributing.
 
 ## License
 
