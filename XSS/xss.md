@@ -5,7 +5,7 @@
 
 ## Timeline
 
-13.08.2024
+15.08.2024
 
 
 ## Resources
@@ -22,12 +22,6 @@ XSS site to Practice XSS - https://xss-quiz.int21h.jp/
 XSS site to Practice XSS - https://xss-game.appspot.com/
 
 https://github.com/InfoSecWarrior/Offensive-Payloads/blob/main/Cross-Site-Scripting-XSS-Payloads.txt
-
-## Useful Tools 
-
-DOMinator
-XSStrike
-DalFox
 
 # Payloads
 
