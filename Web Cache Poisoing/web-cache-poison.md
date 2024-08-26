@@ -1,4 +1,5 @@
-What is Web Cache Poisoning
+## What is Web Cache Poisoning
+
 ```
 https://cyberw1ng.medium.com/defensive-strategies-and-best-practices-to-protect-against-web-cache-poisoning-7d9b855658c7?source=user_profile---------0----------------------------
 https://cyberw1ng.medium.com/essential-resources-for-exploiting-web-cache-poisoning-tools-techniques-and-learning-materials-cbbef5221392?source=user_profile---------1----------------------------
