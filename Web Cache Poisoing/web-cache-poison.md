@@ -10,3 +10,5 @@ https://cyberw1ng.medium.com/advanced-techniques-for-mitigating-web-cache-poison
 https://cyberw1ng.medium.com/advanced-techniques-and-emerging-trends-in-web-cache-poisoning-d2c8d3807d46?source=user_profile---------7----------------------------
 https://cyberw1ng.medium.com/understanding-web-cache-poisoning-how-it-works-and-how-to-prevent-it-55af897e1eb5?source=user_profile---------8----------------------------
 ```
+
+## POCs
