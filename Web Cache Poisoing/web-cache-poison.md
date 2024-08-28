@@ -11,4 +11,8 @@ https://cyberw1ng.medium.com/advanced-techniques-and-emerging-trends-in-web-cach
 https://cyberw1ng.medium.com/understanding-web-cache-poisoning-how-it-works-and-how-to-prevent-it-55af897e1eb5?source=user_profile---------8----------------------------
 ```
 
+https://cyberw1ng.medium.com/24-12-lab-cache-key-injection-vulnerabilities-22429a13eebf
+https://cyberw1ng.medium.com/24-13-lab-internal-cache-poisoning-2c328e4d4a6d
+
 ## POCs
+
