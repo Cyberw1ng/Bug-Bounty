@@ -1,0 +1,74 @@
+site:example.com -www
+site:example.com inurl:login
+site:example.com inurl:signin
+site:example.com intitle:"Login Page"
+site:example.com ext:conf inurl:apache
+site:example.com ext:ini inurl:config
+site:example.com ext:log inurl:log
+site:example.com intitle:index.of
+site:example.com "index of /admin"
+site:example.com "index of /backup"
+site:example.com filetype:pdf "confidential"
+site:example.com filetype:xls "sensitive"
+site:example.com filetype:doc "restricted"
+site:example.com inurl:index.php?id=
+site:example.com inurl:item.php?id=
+site:example.com intext:"select * from" "where"
+site:example.com intext:"PHP Parse error" | "PHP Warning" | "PHP Error"
+site:example.com inurl:admin
+site:example.com intitle:"admin panel"
+site:example.com inurl:adminlogin
+site:example.com intitle:"Index of" "/admin"
+site:example.com intitle:"Index of" "/backup"
+site:example.com intitle:"Index of" "password"
+site:example.com inurl:/git/ intitle:index.of
+site:example.com intitle:"index of" ".git"
+site:example.com inurl:dump filetype:sql
+site:example.com inurl:backup filetype:sql
+site:example.com inurl:wp-content
+site:example.com inurl:wp-includes
+site:example.com intitle:"index of" "wp-admin"
+site:example.com inurl:8080 intitle:"Dashboard [Jenkins]"
+site:example.com inurl:/manage "Jenkins"
+site:example.com filetype:log intext:password
+site:example.com "username" "password" filetype:xls
+site:example.com inurl:"/phpinfo.php"
+site:example.com inurl:"/info.php"
+site:example.com inurl:".env"
+site:example.com ext:conf intext:apache
+site:example.com ext:conf intext:nginx
+site:example.com ext:conf intext:password
+site:example.com ext:ini intext:password
+site:example.com ext:bak inurl:"/backup"
+site:example.com ext:bak intext:password
+site:example.com ext:sql inurl:dump
+site:example.com ext:sql inurl:backup
+site:example.com ext:log inurl:/logs/
+site:example.com ext:log intext:password
+site:example.com ext:log inurl:/app/
+site:example.com ext:log inurl:/log/
+site:example.com filetype:doc intext:confidential
+site:example.com filetype:docx intext:password
+site:example.com filetype:xls intext:sensitive
+site:example.com filetype:xlsx intext:password
+site:example.com filetype:pdf intext:confidential
+site:example.com filetype:pdf intext:proprietary
+site:example.com ext:php inurl:config
+site:example.com ext:php inurl:settings
+site:example.com ext:env intext:DB_PASSWORD
+site:example.com ext:env intext:API_KEY
+site:example.com ext:py inurl:site:example.com
+site:example.com ext:java inurl:site:example.com
+site:example.com ext:js inurl:site:example.com
+site:example.com inurl:".git" intext:password
+site:example.com intitle:"index of" "parent directory"
+site:example.com intitle:"index of" "backup"
+site:example.com intitle:"index of" "admin"
+site:example.com intitle:"index of" "config"
+site:example.com intitle:"index of" "db"
+site:example.com ext:key intext:"BEGIN RSA PRIVATE KEY"
+site:example.com ext:yaml inurl:docker-compose
+site:example.com ext:yaml inurl:compose
+site:example.com ext:txt intext:"AWS_ACCESS_KEY_ID"
+site:example.com ext:env intext:"AWS_SECRET_ACCESS_KEY"
+site:example.com ext:conf intext:password
