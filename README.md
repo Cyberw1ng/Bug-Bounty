@@ -36,8 +36,3 @@ Efficiency-boosting automation scripts in the `automation_scripts` Section.
 ## Tips and Tricks
 
 Expert advice and insights in the `tips_and_tricks` Section.
-
-
-## License
-
-Licensed under the MIT License. See `LICENSE` for more information.
