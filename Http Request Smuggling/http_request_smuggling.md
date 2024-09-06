@@ -12,4 +12,5 @@ https://cyberw1ng.medium.com/26-18-lab-bypassing-access-controls-via-http-2-requ
 https://cyberw1ng.medium.com/26-18-lab-web-cache-poisoning-via-http-2-request-tunnelling-72abd219dc68
 https://cyberw1ng.medium.com/http-request-smuggling-the-hidden-web-threat-you-need-to-know-about-71ff45c7f94a
 https://cyberw1ng.medium.com/advanced-strategies-to-defend-against-http-request-smuggling-a-deep-dive-ba7c0abe911a?source=user_profile---------0----------------------------
+https://cyberw1ng.medium.com/how-i-discovered-an-http-request-smuggling-vulnerability-in-a-major-web-console-5188b2b4c539?source=user_profile---------0----------------------------
 ```
