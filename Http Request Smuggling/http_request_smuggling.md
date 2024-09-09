@@ -15,4 +15,5 @@ https://cyberw1ng.medium.com/advanced-strategies-to-defend-against-http-request-
 https://cyberw1ng.medium.com/how-i-discovered-an-http-request-smuggling-vulnerability-in-a-major-web-console-5188b2b4c539?source=user_profile---------0----------------------------
 https://cyberw1ng.medium.com/how-i-explored-further-and-chained-http-request-smuggling-with-other-vulnerabilities-cfb974e1e8aa?source=user_profile---------3----------------------------
 https://cyberw1ng.medium.com/cyberexploring-client-side-desync-understanding-the-risk-and-mitigating-the-threat-b375dec78f21?source=user_profile---------3----------------------------
+https://cyberw1ng.medium.com/how-i-discovered-an-http-request-smuggling-vulnerability-in-a-major-web-console-5188b2b4c539?source=user_profile---------2----------------------------
 ```
