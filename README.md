@@ -27,7 +27,7 @@ Real-world bug bounty reports in the `reports` Section.
 
 ## Tools
 
-Curated tools and utilities in the `tools` Section.
+Tools and utilities in the `tools` Section.
 
 ## Automation Scripts
 
