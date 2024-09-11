@@ -16,4 +16,5 @@ https://cyberw1ng.medium.com/how-i-discovered-an-http-request-smuggling-vulnerab
 https://cyberw1ng.medium.com/how-i-explored-further-and-chained-http-request-smuggling-with-other-vulnerabilities-cfb974e1e8aa?source=user_profile---------3----------------------------
 https://cyberw1ng.medium.com/cyberexploring-client-side-desync-understanding-the-risk-and-mitigating-the-threat-b375dec78f21?source=user_profile---------3----------------------------
 https://cyberw1ng.medium.com/how-i-discovered-an-http-request-smuggling-vulnerability-in-a-major-web-console-5188b2b4c539?source=user_profile---------2----------------------------
+https://cyberw1ng.medium.com/how-http-request-smuggling-vulnerability-gets-you-a-750-bug-bounty-3dfe9063fd8d?source=user_profile---------4----------------------------
 ```
