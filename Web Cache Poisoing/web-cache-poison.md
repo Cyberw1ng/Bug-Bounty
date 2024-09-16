@@ -18,3 +18,9 @@ https://cyberw1ng.medium.com/24-13-lab-internal-cache-poisoning-2c328e4d4a6d
 
 ## POCs
 
+```
+https://hackerone.com/reports/1010858
+https://hackerone.com/reports/409370
+https://hackerone.com/reports/1424094
+https://hackerone.com/reports/631589
+```
