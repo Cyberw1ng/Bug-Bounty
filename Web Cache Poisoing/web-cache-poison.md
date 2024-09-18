@@ -19,8 +19,16 @@ https://cyberw1ng.medium.com/24-13-lab-internal-cache-poisoning-2c328e4d4a6d
 ## POCs
 
 ```
+https://portswigger.net/research/responsible-denial-of-service-with-web-cache-poisoning
+https://nokline.github.io/bugbounty/2022/09/02/Glassdoor-Cache-Poisoning.html
+https://hackerone.com/reports/622122
 https://hackerone.com/reports/1010858
 https://hackerone.com/reports/409370
 https://hackerone.com/reports/1424094
 https://hackerone.com/reports/631589
+https://hackerone.com/reports/1621540
+https://hackerone.com/reports/504514
+https://hackerone.com/reports/409370
+https://hackerone.com/reports/1183263
+https://github.com/reddelexc/hackerone-reports/blob/master/tops_by_bug_type/TOPWEBCACHE.md
 ```
