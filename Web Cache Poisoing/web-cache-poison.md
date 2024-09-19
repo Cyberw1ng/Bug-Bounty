@@ -32,3 +32,9 @@ https://hackerone.com/reports/409370
 https://hackerone.com/reports/1183263
 https://github.com/reddelexc/hackerone-reports/blob/master/tops_by_bug_type/TOPWEBCACHE.md
 ```
+
+## Methodology
+
+1. Try to Find Unkeyed Input, Header, Parameter, or String with Manual methods or Using Paraminer
+2. Make Probe
+3. Chaining an Exploit
