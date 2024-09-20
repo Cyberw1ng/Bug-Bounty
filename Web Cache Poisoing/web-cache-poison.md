@@ -29,7 +29,6 @@ https://hackerone.com/reports/631589
 https://hackerone.com/reports/1621540
 https://hackerone.com/reports/504514
 https://hackerone.com/reports/409370
-https://hackerone.com/reports/1183263
 https://github.com/reddelexc/hackerone-reports/blob/master/tops_by_bug_type/TOPWEBCACHE.md
 ```
 
