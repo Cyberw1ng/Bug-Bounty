@@ -36,6 +36,3 @@ Efficiency-boosting automation scripts in the `automation_scripts` Section.
 ## Tips and Tricks
 
 Expert advice and insights in the `tips_and_tricks` Section.
-
-
-https://cyberw1ng.medium.com/what-is-an-open-redirect-vulnerability-and-how-to-find-it-7d94a3b9d0ef?source=user_profile---------3----------------------------
