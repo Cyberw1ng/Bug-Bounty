@@ -1,6 +1,6 @@
 # Bug Bounty Notes - [Visit Medium for Writeups](https://cyberw1ng.medium.com)
 
-This repository is a collection of bug bounty materials, reports, tools, automation scripts, tips, and tricks to aid you in your bug hunting journey.
+This repository is a collection of bug bounty materials, reports, tools, automation scripts, tips, and tricks to aid you in your bug-hunting journey.
 
 ## Table of Contents
 
