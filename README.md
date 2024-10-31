@@ -10,7 +10,6 @@ This repository is a collection of bug bounty materials, reports, tools, automat
 4. [Tools](#tools)
 5. [Automation Scripts](#automation-scripts)
 6. [Tips and Tricks](#tips-and-tricks)
-7. [Contributing](#contributing)
 
 ## Getting Started
 
