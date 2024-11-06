@@ -1,4 +1,4 @@
-# Bug Bounty Writeups and Notes  - [Visit Medium and Youtube for Writeups](https://cyberw1ng.medium.com)
+# Bug Bounty Writeups and Notes  - Visit [Medium](https://cyberw1ng.medium.com) and [Youtube](https://www.youtube.com/@karthikeyan-nagaraj) for Writeups
 
 This repository is a collection of bug bounty materials, reports, tools, automation scripts, tips, and tricks to aid you in your bug-hunting journey.
 
