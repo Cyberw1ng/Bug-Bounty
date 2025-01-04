@@ -1,4 +1,4 @@
-Sources of Information Disclosure
+## Materials for Information Disclosure
 
 /robots.txt and /sitemap.xml
 Google Dorking
